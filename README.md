@@ -1,2 +1,2 @@
-# Projetc-IPLdataanalysis
+# Project-IPLdataanalysis
 
